@@ -2,7 +2,7 @@
 
 ## INSTRUCTIONS
 
-- git clone https://github.com/abhi2810/oracledb-http.git
+- git clone https://github.com/vikrantd1203/OracleDB_Http.git
 - cd oracledb-http
 - npm install
 
